@@ -694,7 +694,7 @@ A concise description suitable for a project portfolio:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Priyanshu gupta**
 
 Mechanical Engineering | Machine Learning | Predictive Maintenance
 
@@ -706,6 +706,3 @@ If this project helped you learn something, consider giving the repository a ⭐
 
 ---
 
-### Disclaimer
-
-This project is intended for educational and portfolio purposes. The current demonstration dataset is synthetic and should not be interpreted as measurements from a physical bearing experiment. For engineering or industrial deployment, the model must be validated using representative real-world vibration data and appropriate safety/reliability procedures.
